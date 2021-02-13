@@ -1,5 +1,7 @@
 # Adding files to ignore
 config.py
+ratings.csv
+movies_metadata.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
