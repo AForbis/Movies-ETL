@@ -10,6 +10,6 @@
   - Deliverable 4: Create the Movie Database [(D4 completed file)](ETL_clean_database.ipynb)
     - Query results
     
-      ![movies_query.png](Resources\movies_query.png)
+      ![movies_query.png](Resources/movies_queries.png)
       
-      ![ratings_query.png](Resources\ratings_query.png)
+      ![ratings_query.png](Resources/ratings_queries.png)
