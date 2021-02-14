@@ -4,7 +4,12 @@
 
 # Deliverables
 
-  - Deliverable 1: Write an ETL Function to Read Three Data Files
-  - Deliverable 2: Extract and Transform the Wikipedia Data
-  - Deliverable 3: Extract and Transform the Kaggle data
-  - Deliverable 4: Create the Movie Database
+  - Deliverable 1: Write an ETL Function to Read Three Data Files [D1 completed file](ETL_function_test.ipynb)
+  - Deliverable 2: Extract and Transform the Wikipedia Data [D2 completed file](ETL_clean_wiki_movies.ipynb)
+  - Deliverable 3: Extract and Transform the Kaggle data [D3 completed file](ETL_clean_kaggle_data.ipynb)
+  - Deliverable 4: Create the Movie Database [D4 completed file](ETL_clean_database.ipynb)
+    - Query results
+    
+      ![movies_query.png](Resources/movies_query.png)
+      
+      ![ratings_query.png](Resources/ratings_query.png)
